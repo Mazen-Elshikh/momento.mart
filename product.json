@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": 20,
+        "image": "images/111w (1).png"
+    },
+    {
+        "id": 2,
+        "name": "black coffee",
+        "price": 20,
+        "image": "images/111w (2).png"
+    },
+    {
+        "id": 3,
+        "name": "Espresso",
+        "price": 50,
+        "image": "images/111w (1).png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "tea",
+        "price": 20,
+        "image": "images/111w (2).png"
+    },
+    {
+        "id": 5,
+        "name": "chocolate",
+        "price": 20,
+        "image": "images/111w (1).png"
+    },
+    {
+        "id": 6,
+        "name": "ice cream",
+        "price": 20,
+        "image": "images/111w (2).png"
+    },
+    {
+        "id": 7,
+        "name": "vanila",
+        "price": 20,
+        "image": "images/111w (1).png"
+    }
+]
